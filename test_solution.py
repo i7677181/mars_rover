@@ -3,7 +3,7 @@ import unittest
 from solution import go
 
 
-class TestSum(unittest.TestCase):
+class TestSolution(unittest.TestCase):
     """ A bunch of test cases for our solution """
     def test_solution_example(self):
         """Testing the example input"""
